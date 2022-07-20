@@ -1,2 +1,1 @@
-# Udemy
-# Solutions
+# Udemy Solutions
